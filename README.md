@@ -1,3 +1,3 @@
 # ARIMA PHP
 ## to test run tests scripts
-## or the documentation
+## or read the documentation
